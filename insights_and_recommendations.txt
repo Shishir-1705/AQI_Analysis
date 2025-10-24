@@ -1,0 +1,7 @@
+
+Policy suggestions based on forecasts and EDA:
+- Issue seasonal / festival-based warnings for cities with forecast spikes (e.g., winter months).
+- Strengthen vehicular emission controls on days predicted to have poor air quality.
+- Identify and monitor high-risk grid cells (use spatial heatmap) and deploy targeted interventions.
+- Promote green cover & low-emission zones in consistently high-pollution areas.
+- Further improvement: build an ensemble model combining ARIMA & Prophet for robustness.
